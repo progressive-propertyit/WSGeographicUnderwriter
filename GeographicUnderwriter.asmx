@@ -1,0 +1,1 @@
+<%@ WebService Language="VB" CodeBehind="GeographicUnderwriter.asmx.vb" Class="EINS.Services.GeographicUnderwriter" %>
